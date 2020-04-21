@@ -5,14 +5,33 @@
 ********* **('_')**  ********
 ************************************/
 void Stringof(int Happiness) {
-  int happy = 0x00;
-  while(Happiness != happy){
-    printf("Happiness");
-    if (happy % 10 == 0){
-        printf("**^_^**");
-    }
-    happy = happy + 0x01;
-  }
+  printf("Happy_____Happy***");
+  printf("*****Happy********");
+  printf("HappyHappyHappy***");
+  printf("HappyHappyHappy***");
+      printf("Happy_____Happy***\n");
+      printf("Happy_____Happy***");
+      printf("*Happy___Happy****");
+  printf("Happy_____Happy***");
+  printf("Happy_____Happy***");
+  printf("**Happy_Happy*****\n");
+                              printf("HappyHappyHappy***");
+                              printf("HappyHappyHappy***");
+                              printf("HappyHappyHappy***");
+                              printf("HappyHappyHappy***");
+                              printf("*****Happy********\n");
+  printf("Happy_____Happy***");
+  printf("Happy_____Happy***");
+
+  printf("Happy*************");
+    printf("Happy*************");
+    printf("*****Happy********\n");
+  printf("Happy_____Happy***");
+    printf("Happy_____Happy***");
+      printf("Happy*************");
+        printf("Happy*************");
+
+  printf("*****Happy********\n");
   return;
 }
 
@@ -23,6 +42,8 @@ void Stringof(int Happiness) {
 ************************************/
 
 int main() {
-  Stringof(0x64);
+  printf("************************************STRING _____OF****************************************\n");
+  Stringof(100);
+  printf("******************************************************************************************\n");
   return;
 }
